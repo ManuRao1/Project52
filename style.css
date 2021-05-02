@@ -1,0 +1,15 @@
+.header {
+    padding: 30px;
+}
+
+.grid {
+    margin: 30px;
+}
+
+a.linked {
+    color: white;
+}
+
+a.visited {
+    color: white;
+}
